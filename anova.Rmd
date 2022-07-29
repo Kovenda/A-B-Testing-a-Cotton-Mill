@@ -1,14 +1,14 @@
 ---
 title: "Project 328 Cotton "
-author: "Kovenda & Meron"
+author: "Kovenda"
 date: "4/18/2021"
 output: word_document
 ---
 
 ```{r}
 library(readxl)
-#Cotton <- read_excel("/Volumes/GoogleDrive/.shortcut-targets-by-id/1QeobXNnIoCBgpPAg-SzfEd5XUhQ1iovx/Project 1 328/MATH 328 Project Data/Cotton.xlsx")
-Cotton <- read_excel("G:/My Drive/Project 1 328/MATH 328 Project Data/Cotton.xlsx")
+
+Cotton <- read_excel("directory")
 
 ```
 
